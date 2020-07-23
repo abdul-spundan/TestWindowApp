@@ -1,0 +1,10 @@
+D:\RS\Personal\WindowDeployApp\TestWindowApp\ProjectBLL\bin\Debug\ProjectBLL.dll
+D:\RS\Personal\WindowDeployApp\TestWindowApp\ProjectBLL\bin\Debug\ProjectBLL.pdb
+D:\RS\Personal\WindowDeployApp\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.csprojResolveAssemblyReference.cache
+D:\RS\Personal\WindowDeployApp\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.dll
+D:\RS\Personal\WindowDeployApp\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.pdb
+C:\TestWindowApp\ProjectBLL\bin\Debug\ProjectBLL.dll
+C:\TestWindowApp\ProjectBLL\bin\Debug\ProjectBLL.pdb
+C:\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.csprojResolveAssemblyReference.cache
+C:\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.dll
+C:\TestWindowApp\ProjectBLL\obj\Debug\ProjectBLL.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\192.168.1.2\MageApp\|\\192.168.1.3\MageApp\|publish\|\\192.168.1.4\MageApp\|\\10.0.2.15\Publish_MageUi\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.1.2\MageApp\|\\192.168.1.3\MageApp\|\\192.168.1.4\MageApp\|\\10.0.2.15\Publish_MageUi\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\192.168.1.3\MageApp\|\\192.168.1.4\MageApp\|\\10.0.2.15\Publish_MageUi\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
